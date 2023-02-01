@@ -16,7 +16,6 @@ My git times can be seen at the contribution chart in GitHub.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Star History Chart](](https://github.com/KrishnaNarwade?tab=overview&from=2022-12-01&to=2022-12-31)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishnaNarwade&theme=dark&background=000000)](https://git.io/streak-stats)
