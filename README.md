@@ -13,6 +13,9 @@ I am using Git to always push my code and required file.
 I recently have pushed my Expense tracker Python code, requirment.txt file and the UML diagrams.
 My git times can be seen at the contribution chart in GitHub.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+
+
 # 2 UML
 
 I decided to draw 3 UML diagrams i.e 
