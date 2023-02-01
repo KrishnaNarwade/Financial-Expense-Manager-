@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 # Financial-Expense-Manager-
 Hi , This Repository contains Expense Manger Project using Python 
 Overview of code Metrics :[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
@@ -18,7 +15,7 @@ My git times can be seen at the contribution chart in GitHub.
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishnaNarwade&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishnaNarwade&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
 # 2 UML
 
