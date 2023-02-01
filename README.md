@@ -61,8 +61,7 @@ Here I have a written small Domain Specific language which just take all the exp
 For it's Interpreation I have used python language you can find the code here [grocery_expenses_interpreter](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/grocery_expenses_interpreter.py)
 
 
-
-
+# 11) Functional Programming
 
 
 
