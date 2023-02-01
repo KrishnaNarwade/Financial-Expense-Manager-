@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # Financial-Expense-Manager-
 Hi , This Repository contains Expense Manger Project using Python 
 Overview of code Metrics :[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
@@ -13,9 +16,6 @@ I am using Git to always push my code and required file.
 I recently have pushed my Expense tracker Python code, requirment.txt file and the UML diagrams.
 My git times can be seen at the contribution chart in GitHub.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishnaNarwade&theme=dark&background=000000)](https://git.io/streak-stats)
