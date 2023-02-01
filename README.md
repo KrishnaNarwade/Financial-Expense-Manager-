@@ -18,6 +18,8 @@ My git times can be seen at the contribution chart in GitHub.
 </div>
 [![Star History Chart](](https://github.com/KrishnaNarwade?tab=overview&from=2022-12-01&to=2022-12-31)
 
+### :fire: My Stats :
+
 
 # 2 UML
 
