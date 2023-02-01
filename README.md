@@ -13,6 +13,9 @@ I am using Git to always push my code and required file.
 I recently have pushed my Expense tracker Python code, requirment.txt file and the UML diagrams.
 My git times can be seen at the contribution chart in GitHub.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [![Star History Chart](](https://github.com/KrishnaNarwade?tab=overview&from=2022-12-01&to=2022-12-31)
 
 
