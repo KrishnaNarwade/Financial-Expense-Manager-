@@ -68,4 +68,6 @@ For it's Interpreation I have used python language you can find the code here [g
 # 11) Functional Programming
 
 
+[main_expense_manager](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/main.py)
 
+[Backend_Database_code](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/mydb.py)
