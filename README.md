@@ -9,8 +9,8 @@ You can find the Screenshot of GUI [Here].
 
 # 1 Git 
 I am using Git to always push my code and required file.
-I recently have pushed my Expense tracker Python code, requirment.txt file and the UML diagrams.
-My git times can be seen at the contribution chart in GitHub.
+I am regulary adding and updating file as per need and pushing the updates to github.
+My git times can be seen at the contribution chart in GitHub and also in the below Chart.
 
 
 ### :fire: My Stats :
