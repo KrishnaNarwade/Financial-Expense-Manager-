@@ -45,7 +45,11 @@ Yet to be done.
 # 6) Build Management
 Yet to be done.
 # 7) Tests 
-Yet to be done.
+2 Small Unittest are written for the Backend database : 
+1) Test 1 : This test case calculates the total remaining balance of the records stored in the database. By default, the total Balance is 5000€
+2) Test 2 : This test case fetches all the records stored in the database and verify if we have the same record as we expect.
+
+
 # 8) Continuous Delivery
 Yet to be done.
 # 9) IDE
