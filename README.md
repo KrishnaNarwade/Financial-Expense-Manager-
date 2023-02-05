@@ -45,10 +45,14 @@ Yet to be done.
 # 6) Build Management
 Yet to be done.
 # 7) Tests 
-2 Small Unittest are written for the Backend database : 
+For test, I am using python unittest modules , which provides functionality for creating and running tests, such as assert methods for testing conditions, test fixtures for setting up and tearing down test environments. 
+
+For this project 2 Small Unittest are written for the Backend database : 
 1) Test 1 : This test case calculates the total remaining balance of the records stored in the database. By default, the total Balance is 5000€
 2) Test 2 : This test case fetches all the records stored in the database and verify if we have the same record as we expect.
 
+You can find the link below.
+[DB_UNITTEST](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/DBUnitest.py)
 
 # 8) Continuous Delivery
 Yet to be done.
