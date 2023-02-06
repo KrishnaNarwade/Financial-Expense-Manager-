@@ -58,7 +58,7 @@ The test case code can be seen [here](https://github.com/KrishnaNarwade/Financia
 **Modularity:** The codes written are breaked down into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
 
 # 6) Build Management
-My build managemnt is not alligned with this project.
+My build management is not alligned with this project.
 
 I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Complteted it's built acutomation using Maven. 
 
@@ -74,7 +74,10 @@ You can find the link below.
 [DB_UNITTEST](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/DBUnitest.py)
 
 # 8) Continuous Delivery
-Yet to be done.
+For CICD , I decided to go with Jenkins. 
+
+Jenkins can be used to automate tasks such as building, testing, and deploying software, as well as simplifying continuous integration and continuous delivery (CI/CD) processes.
+It provides varierty of plugins do these process
 # 9) IDE
 I choosed Visual studio as an IDE for this Project
 VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more
