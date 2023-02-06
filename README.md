@@ -43,11 +43,15 @@ Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expen
 - Lines of Code : [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
 
 # 5) Clean Code Development
-**Readability:** Writing code that is easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
-
-**Simplicity:** Keeping the code simple, avoiding over-engineering and unnecessary complexity.
+**Readability:** The codes written are easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
+                 Before each function a comment is written to explain what the function is exactly doing!
+   
+**Simplicity:** The codes are simple with avoiding over-engineering and unnecessary complexity.
 
 **DRY (Don't Repeat Yourself):** Avoiding duplication of code, by creating reusable functions, modules, or libraries.
+DRY stands for don't repeat yourself. The principle is very important in my opinion, because repition of code is easily avoidable and makes the code very hard to maintain. Two common rules to make sure to apply DRY is to define constants for values which occur frequently. Another is to use functions/classes/methods which increase the abstraction level of the code, so that it becomes reusable by design.
+As also seen in my sonacloud metrics : [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+
 
 **Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain.
 
