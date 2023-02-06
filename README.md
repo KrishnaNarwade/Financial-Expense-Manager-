@@ -53,7 +53,8 @@ DRY stands for don't repeat yourself. The principle is very important in my opin
 As also seen in my sonacloud metrics : [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
 
 
-**Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain.
+**Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain. 
+The test case code can be seen [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/DBUnitest.py) 
 
 **Modularity:** Breaking the code into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
 
