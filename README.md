@@ -60,7 +60,7 @@ The test case code can be seen [here](https://github.com/KrishnaNarwade/Financia
 # 6) Build Management
 My build management is not alligned with this project.
 
-I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Complteted it's built acutomation using Maven. 
+I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Completed it's built automation using Maven. 
 
 The POM.Xml can be find [here]. 
 # 7) Tests 
