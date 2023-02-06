@@ -49,17 +49,20 @@ Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expen
 **Simplicity:** The codes are simple with avoiding over-engineering and unnecessary complexity.
 
 **DRY (Don't Repeat Yourself):** Avoiding duplication of code, by creating reusable functions, modules, or libraries.
-DRY stands for don't repeat yourself. The principle is very important in my opinion, because repition of code is easily avoidable and makes the code very hard to maintain. Two common rules to make sure to apply DRY is to define constants for values which occur frequently. Another is to use functions/classes/methods which increase the abstraction level of the code, so that it becomes reusable by design.
+Another is to use functions/classes/methods which increase the abstraction level of the code, so that it becomes reusable by design.
 As also seen in my sonacloud metrics : [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
-
 
 **Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain. 
 The test case code can be seen [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/DBUnitest.py) 
 
-**Modularity:** Breaking the code into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
+**Modularity:** The codes written are breaked down into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
 
 # 6) Build Management
-Yet to be done.
+My build managemnt is not alligned with this project.
+
+I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Complteted it's built acutomation using Maven. 
+
+The POM.Xml can be find [here]. 
 # 7) Tests 
 For test, I am using python unittest modules , which provides functionality for creating and running tests, such as assert methods for testing conditions, test fixtures for setting up and tearing down test environments. 
 
