@@ -24,5 +24,3 @@ class GroceryExpenseInterpreter:
 
 expense = GroceryExpenseInterpreter('grocery_expenses.dsl')
 print(f"You have Spent: € {round(expense.total())} in total\nYou have purchased these following items: {expense.item()}\nYour highest purchase amount is {max(expense.ind_cost())}")
-
-#print(f"Expenses details: \n You have purchased: {interpreter.Expense.ItemName} {interpreter.Expense.ItemName}\nprice_Per_unit(In Euros): {interpreter.Expense.ItemPrice}\nItemQuantity: {interpreter.Expense.ItemQuantity}\nPurchaseDate: {interpreter.Expense.PurchaseDate}\nFinalAmount: {interpreter.Expense.FinalAmount}")
