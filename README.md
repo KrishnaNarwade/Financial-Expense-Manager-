@@ -43,7 +43,11 @@ Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expen
 - Lines of Code : [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
 
 # 5) Clean Code Development
-Yet to be done.
+**Readability:** Writing code that is easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
+**Simplicity:** Keeping the code simple, avoiding over-engineering and unnecessary complexity.
+**DRY (Don't Repeat Yourself):** Avoiding duplication of code, by creating reusable functions, modules, or libraries.
+**Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain.
+**Modularity:** Breaking the code into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
 # 6) Build Management
 Yet to be done.
 # 7) Tests 
