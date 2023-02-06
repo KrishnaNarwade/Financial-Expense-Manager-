@@ -44,10 +44,15 @@ Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expen
 
 # 5) Clean Code Development
 **Readability:** Writing code that is easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
+
 **Simplicity:** Keeping the code simple, avoiding over-engineering and unnecessary complexity.
+
 **DRY (Don't Repeat Yourself):** Avoiding duplication of code, by creating reusable functions, modules, or libraries.
+
 **Test-Driven Development (TDD):** Writing automated tests before writing the code, to ensure that the code works as expected and is easy to maintain.
+
 **Modularity:** Breaking the code into smaller, self-contained modules that can be easily tested, reused, and combined in different ways.
+
 # 6) Build Management
 Yet to be done.
 # 7) Tests 
