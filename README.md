@@ -5,7 +5,7 @@ Overview of code Metrics :[![Quality gate](https://sonarcloud.io/api/project_bad
 # General
 This repository contains a simple Expense manager. You can track your expense and budget get to know where you are spending your money. It already comes with options of adding , deleting, modifying, getting current date of the puchase. 
 
-You can find the Screenshot of GUI [Here].
+You can find the Screenshot of GUI [Here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/Expense%20Tracker%20Screenshot.png)
 
 # 1 Git 
 I am using Git to always push my code and required file.
