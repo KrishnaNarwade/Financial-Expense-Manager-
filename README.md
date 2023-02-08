@@ -60,9 +60,11 @@ The test case code can be seen [here](https://github.com/KrishnaNarwade/Financia
 # 6) Build Management
 My build management is not alligned with this project.
 
-I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Completed it's built automation using Maven. 
 
-The POM.Xml can be find [here]. 
+I choosed Maven for build managemnt. As I started learning it , I found out that It works very well with JAVA projects. So I wrote a small Java project which can be found here and Completed it's built automation using Maven. 
+The Main Java Program can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Java-Maven%20Project/AppTest.java).
+The POM.Xml can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Java-Maven%20Project/pom.xml). 
+The screenshot of the Maven Build can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Java-Maven%20Project/Maven-Build%20Screenshot.jpeg)
 # 7) Tests 
 For test, I am using python unittest modules , which provides functionality for creating and running tests, such as assert methods for testing conditions, test fixtures for setting up and tearing down test environments. 
 
