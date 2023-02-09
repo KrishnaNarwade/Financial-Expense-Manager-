@@ -85,7 +85,6 @@ For CICD , I decided to go with Jenkins.
 Jenkins can be used to automate tasks such as building, testing, and deploying software, as well as simplifying continuous integration and continuous delivery (CI/CD) processes.
 It provides varierty of plugins do these process. 
 
-The [![Build Status](http://localhost:8080/buildStatus/icon?job=Project1)](http://localhost:8080/job/Project1/)
 # 9) IDE
 I choosed Visual studio as an IDE for this Project
 VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more
