@@ -26,7 +26,7 @@ This activity diagram shows progression and action of the Expense tracker tool.
 This Use-case diagrams describe the high-level functions and scope of a Expense tracker tool.
 It also shows interaction between User and System.
 
-3) [Component diagram] (https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/UML%20Component%20Diagram.png)
+3) [Component diagram](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/UML%20Component%20Diagram.png)
 This Component diagram show the components the expense tracker tool and how they are wired together.
 
 # 3) DDD
