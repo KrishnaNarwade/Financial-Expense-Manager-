@@ -88,7 +88,7 @@ It provides varierty of plugins do these process.
 For This Project I created 4 differnet Pipelines i.e. Checkout, Build, Test , Deploy (The app is not deployed , It was juts written as Echo in Jenkins)
 The Build success screenshot can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_Pipelinescreenshot.png)
 
-The you also have a look at [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
+You can also have a look at [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
 
 
 Also I wanted to learn how to integrate Maven so I interegrated small java written project build with Maven. 
@@ -97,21 +97,18 @@ It's Successful build can be found [here](https://github.com/KrishnaNarwade/Fina
 
  These are [log](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Maven_Jenkins_log) and [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/java_maven_config.xml) files for it.
 
-
-
-
-
 Theese are [log] and config.xml files for it.
 
 
 # 9) IDE
 I choosed Visual studio as an IDE for this Project
-VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more
+VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.
 
 My Faviourite Shortcut tools are 
 1) ctrl + L : It allows me to clear the output console
 2) Alt+Click : It Inserts a cursor
-
+3) Ctrl+Shift+N : It opens new window/instance
+4) Ctrl+Shift+W : It Close window/instance
 # 10) Domain Specific Language  
 
 My DSL is realted to my Expense Tracker project.
