@@ -85,6 +85,25 @@ For CICD , I decided to go with Jenkins.
 Jenkins can be used to automate tasks such as building, testing, and deploying software, as well as simplifying continuous integration and continuous delivery (CI/CD) processes.
 It provides varierty of plugins do these process. 
 
+For This Project I created 4 differnet Pipelines i.e. Checkout, Build, Test , Deploy (The app is not deployed , It was juts written as Echo in Jenkins)
+The Build success screenshot can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_Pipelinescreenshot.png)
+
+The you also have a look at [congig.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
+
+
+Also I wanted to learn how to integrate Maven so I interegrated small java written project build with Maven. 
+
+It's Successful build can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Maven_Jenkins_Screenshot.png)
+
+ These are [log](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Maven_Jenkins_log) and [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/java_maven_config.xml) files for it.
+
+
+
+
+
+Theese are [log] and config.xml files for it.
+
+
 # 9) IDE
 I choosed Visual studio as an IDE for this Project
 VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more
