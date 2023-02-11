@@ -88,7 +88,7 @@ It provides varierty of plugins do these process.
 For This Project I created 4 differnet Pipelines i.e. Checkout, Build, Test , Deploy (The app is not deployed , It was juts written as Echo in Jenkins)
 The Build success screenshot can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_Pipelinescreenshot.png)
 
-The you also have a look at [congig.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
+The you also have a look at [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
 
 
 Also I wanted to learn how to integrate Maven so I interegrated small java written project build with Maven. 
