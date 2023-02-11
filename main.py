@@ -1,26 +1,27 @@
+# import modules 
 from tkinter import *
 from tkinter import ttk
 import datetime as dt
-from mydb import Database
+from mydb import *
 from tkinter import messagebox
 
 # object for database
 data = Database(db='test.db')
 
-
+# global variables
 count = 0
 selected_rowid = 0
 
 # functions
-def Save_record():
+def saveRecord():
     global data
     data.insertRecord(item_name=item_name.get(), item_price=item_amt.get(), purchase_date=transaction_date.get())
        
-def Set_date():
+def setDate():
     date = dt.datetime.now()
     dopvar.set(f'{date:%d %B %Y}')
 
-def Clear_entries():
+def clearEntries():
     item_name.delete(0, 'end')
     item_amt.delete(0, 'end')
     transaction_date.delete(0, 'end')
@@ -31,7 +32,7 @@ def fetch_records():
     for rec in f:
         tv.insert(parent='', index='0', iid=count, values=(rec[0], rec[1], rec[2], rec[3]))
         count += 1
-    tv.after(400, Refresh_data)
+    tv.after(400, refreshData)
 
 def select_record(event):
     global selected_rowid
@@ -44,7 +45,7 @@ def select_record(event):
         namevar.set(val[1])
         amtvar.set(val[2])
         dopvar.set(str(d))
-    except Exception:
+    except Exception as ep:
         pass
 
 
@@ -63,24 +64,24 @@ def update_record():
     item_name.delete(0, END)
     item_amt.delete(0, END)
     transaction_date.delete(0, END)
-    tv.after(400, Refresh_data)
+    tv.after(400, refreshData)
     
 
-def Total_balance():
+def totalBalance():
     f = data.fetchRecord(query="Select sum(item_price) from expense_record")
     for i in f:
         for j in i:
             messagebox.showinfo('Current Balance: ', f"Total Expense: ' {j} \nBalance Remaining: {5000 - j}")
 
-def Refresh_data():
+def refreshData():
     for item in tv.get_children():
       tv.delete(item)
     fetch_records()
     
-def Delete_row():
+def deleteRow():
     global selected_rowid
     data.removeRecord(selected_rowid)
-    Refresh_data()
+    refreshData()
 
 # create tkinter object
 ws = Tk()
@@ -126,7 +127,7 @@ cur_date = Button(
     text='Current Date', 
     font=f, 
     bg='#04C4D9', 
-    command=Set_date,
+    command=setDate,
     width=15
     )
 
@@ -134,7 +135,7 @@ submit_btn = Button(
     f1, 
     text='Save Record', 
     font=f, 
-    command=Save_record, 
+    command=saveRecord, 
     bg='#42602D', 
     fg='white'
     )
@@ -143,7 +144,7 @@ clr_btn = Button(
     f1, 
     text='Clear Entry', 
     font=f, 
-    command=Clear_entries, 
+    command=clearEntries, 
     bg='#D9B036', 
     fg='white'
     )
@@ -162,7 +163,7 @@ total_bal = Button(
     text='Total Balance',
     font=f,
     bg='#486966',
-    command=Total_balance
+    command=totalBalance
 )
 
 total_spent = Button(
@@ -184,7 +185,7 @@ del_btn = Button(
     f1, 
     text='Delete',
     bg='#BD2A2E',
-    command=Delete_row,
+    command=deleteRow,
     font=f
 )
 
