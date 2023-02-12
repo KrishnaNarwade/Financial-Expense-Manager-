@@ -126,22 +126,22 @@ The Link for complete progarm can be found [here](https://github.com/KrishnaNarw
 
 **[Higher-order]:** Process_data is a higer order function that takes a list of expenses and a function as a parameter. 
 
-(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L3)
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L3
 
 **Side effect free function:** Get_total is a side-effect free function that calculates the total price of an expense.
 
-(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L7)
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L7
 
 **Closure Function:** The make_category_filter function is a closure that returns a new function that filters expenses by category. filter_food is a closure that filters expenses that belong to the Food category.
 
-(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L11)
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L11
 
 **Reduce function:**  The reduce function is used to sum the elements in the list food_expenses, which are the filtered expenses for the Food category. 
 
-(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L27)
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L27
 
 **Final data structure:** The result of the calculation is stored in the variable food_total, which is the final data structure in this code.
 
-(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L17)
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L17
 
 
