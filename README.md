@@ -31,7 +31,7 @@ It also shows interaction between User and System.
 This Component diagram show the components the expense tracker tool and how they are wired together.
 
 # 3) DDD
-The Link for DDD diagram can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/DDD.png)
+The Link for DDD diagram can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/DDD_updated.png)
 
 The [Ubiquitous language](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Ubiquitous%20language.txt) is also for terminologies
 
