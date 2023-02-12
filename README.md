@@ -31,7 +31,9 @@ It also shows interaction between User and System.
 This Component diagram show the components the expense tracker tool and how they are wired together.
 
 # 3) DDD
-Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expense-Manger-Advanced-Software-Engineering-Project/blob/main/UML%20Diagrams./DDD%20Expense%20Tracker.jpg) diagram. 
+The Link for DDD diagram can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/UML%20Diagrams/DDD.png)
+
+The [Ubiquitous language](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Ubiquitous%20language.txt) is also for terminologies
 
 # 4) Metrics
 
