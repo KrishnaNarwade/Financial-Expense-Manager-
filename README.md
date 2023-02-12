@@ -108,8 +108,11 @@ VS Code helps you be instantly productive with syntax highlighting, bracket-matc
 
 My Faviourite Shortcut tools are 
 **1) ctrl + L :** It allows me to clear the output console
+
 **2) Alt+Click :** It Inserts a cursor
+
 **3) Ctrl+Shift+N :** It opens new window/instance
+
 **4) Ctrl+Shift+W :** It Close window/instance
 
 # 10) Domain Specific Language  
