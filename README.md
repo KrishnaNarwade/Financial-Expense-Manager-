@@ -1,6 +1,6 @@
 # Financial-Expense-Manager-
 Hi , This Repository contains Expense Manger Project using Python 
-Overview of code Metrics :[![Quality gate][![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+Overview of code Metrics :[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
 
 # General
 This repository contains a simple Expense manager. You can track your expense and budget get to know where you are spending your money. It already comes with options of adding , deleting, modifying, getting current date of the puchase. 
@@ -34,13 +34,13 @@ Attaching the Darft version of the [DDD](https://github.com/KrishnaNarwade/Expen
 
 # 4) Metrics
 
-- Maintainability : [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Security Rating : [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Bugs : [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=bugs)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Vulnerabilities: [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Duplicated Lines (%) : [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Reliability Rating : [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
-- Lines of Code : [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
+- Maintainability : [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Security Rating : [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Bugs : [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=bugs)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Vulnerabilities: [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Duplicated Lines (%) : [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Reliability Rating : [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
+- Lines of Code : [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
 
 # 5) Clean Code Development
 **Readability:** The codes written are easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
