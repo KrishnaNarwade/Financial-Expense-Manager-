@@ -88,7 +88,7 @@ For CICD , I decided to go with Jenkins.
 Jenkins can be used to automate tasks such as building, testing, and deploying software, as well as simplifying continuous integration and continuous delivery (CI/CD) processes.
 It provides varierty of plugins do these process. 
 
-For This Project I created 4 differnet Pipelines i.e. Checkout, Build, Test , Deploy (The app is not deployed , It was juts written as Echo in Jenkins)
+For This Project I created 4 differnet Pipelines i.e. Checkout, Build, Test , Deploy (The app is not deployed , It was just written as Echo in Jenkins)
 The Build success screenshot can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_Pipelinescreenshot.png)
 
 You can also have a look at [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Exprense_tracker_config.xml) and [log file](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Expense_tracker_log)
