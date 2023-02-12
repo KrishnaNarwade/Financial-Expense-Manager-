@@ -55,7 +55,7 @@ Clean code developement [cheatsheet](https://github.com/KrishnaNarwade/Financial
 **Comments:** Use comments to explain why a particular piece of code is necessary, rather than what it does.  
 https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/9250bf880c14b869bc63c9bd0ca458fa7e57204a/main.py#L8
 
-**naming Conevsions of Variables and function:** Use meaningful names for variables, functions, and classes. Avoid abbreviations and single letter names, unless they are well-known and universally recognized. 
+**Naming conevsions of variables and function:** Use meaningful names for variables, functions, and classes. Avoid abbreviations and single letter names, unless they are well-known and universally recognized. 
 
 In this [Example](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/mydb.py) You can see that All functions such fetchRecord, removeRecord, insertrecord, updaterecord are named properly as per it's functionality 
 
