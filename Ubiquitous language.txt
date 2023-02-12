@@ -1,13 +1,13 @@
 ##Ubiquitous language: 
 
-Expense: A financial transaction that represents the amount of money spent on a specific item or service.
+#Expense: A financial transaction that represents the amount of money spent on a specific item or service.
 
-Total Balance: An amount of money set aside for expenses. (By default, it is 5000 €)
+#Total Balance: An amount of money set aside for expenses. (By default, it is 5000 €)
 
-CRUD Operations: In computer programming, create, read, update, and delete are the four basic operations of persistent storage and together they are called as CRUD.
+#CRUD Operations: In computer programming, create, read, update, and delete are the four basic operations of persistent storage and together they are called as CRUD.
 
-Report: A summary of expenses over a specific time period, filtered by category, merchant, or other criteria.
+#Report: A summary of expenses over a specific time period, filtered by category, merchant, or other criteria.
 
-Test: In software engineering, a test case is a specification of the inputs, execution conditions, testing procedure, and expected results that define a single test to be executed to achieve a particular.
+#Test: In software engineering, a test case is a specification of the inputs, execution conditions, testing procedure, and expected results that define a single test to be executed to achieve a particular.
 
 
