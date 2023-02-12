@@ -97,7 +97,6 @@ It's Successful build can be found [here](https://github.com/KrishnaNarwade/Fina
 
  These are [log](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/Maven_Jenkins_log) and [config.xml](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/CICD-%20Jenkins/java_maven_config.xml) files for it.
 
-Theese are [log] and config.xml files for it.
 
 
 # 9) IDE
