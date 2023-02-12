@@ -107,10 +107,11 @@ I choosed Visual studio as an IDE for this Project
 VS Code helps you be instantly productive with syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.
 
 My Faviourite Shortcut tools are 
-1) ctrl + L : It allows me to clear the output console
-2) Alt+Click : It Inserts a cursor
-3) Ctrl+Shift+N : It opens new window/instance
-4) Ctrl+Shift+W : It Close window/instance
+**1) ctrl + L :** It allows me to clear the output console
+**2) Alt+Click :** It Inserts a cursor
+**3) Ctrl+Shift+N :** It opens new window/instance
+**4) Ctrl+Shift+W :** It Close window/instance
+
 # 10) Domain Specific Language  
 
 My DSL is realted to my Expense Tracker project.
