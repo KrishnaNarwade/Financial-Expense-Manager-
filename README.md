@@ -48,7 +48,13 @@ The [Ubiquitous language](https://github.com/KrishnaNarwade/Financial-Expense-Ma
 # 5) Clean Code Development
 **Readability:** The codes written are easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
                  Before each function a comment is written to explain what the function is exactly doing! As one can see by the sonarcloud readibilty analysis [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
-   
+                 
+**Comments:** Use comments to explain why a particular piece of code is necessary, rather than what it does.  
+(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/9250bf880c14b869bc63c9bd0ca458fa7e57204a/main.py#L8)
+ 
+Write docstrings for functions, classes, and modules, to explain what they do and how to use them.
+(https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/9250bf880c14b869bc63c9bd0ca458fa7e57204a/main.py#L15)
+
 **Simplicity:** The codes are simple with avoiding over-engineering and unnecessary complexity.
 
 **DRY (Don't Repeat Yourself):** Avoiding duplication of code, by creating reusable functions, modules, or libraries.
