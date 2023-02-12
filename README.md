@@ -136,12 +136,12 @@ https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8
 
 https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L11
 
-**Reduce function:**  The reduce function is used to sum the elements in the list food_expenses, which are the filtered expenses for the Food category. 
-
-https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L27
-
 **Final data structure:** The result of the calculation is stored in the variable food_total, which is the final data structure in this code.
 
 https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L17
+
+**Reduce function:**  The reduce function is used to sum the elements in the list food_expenses, which are the filtered expenses for the Food category. 
+
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L27
 
 
