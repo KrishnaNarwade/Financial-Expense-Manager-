@@ -1,0 +1,32 @@
+
+Clean code Developement CheetSheet
+By following these guidelines, you can write clean, maintainable, and easily understandable code in Python.
+
+1) Use meaningful names for variables, functions, and classes. Avoid abbreviations and single letter names, unless they are well-known and universally recognized (such as x and y for coordinates).
+
+2) Write docstrings for functions, classes, and modules, to explain what they do and how to use them.
+
+3) Keep lines short and limit the number of characters in a line to around 79 characters. This makes the code easier to read and reduces the need for horizontal scrolling.
+
+4) Use proper indentation and white space to group statements and visually separate blocks of code. In Python, use four spaces for each level of indentation.
+
+5) Avoid using global variables, as they can lead to unpredictable side effects and make it harder to understand the behavior of your code. Instead, use function arguments and return values to pass data between functions.
+
+6) Use functions to encapsulate related logic and make your code more modular and reusable.
+
+7) Keep functions and methods small and focused, with a single, well-defined responsibility.
+
+8) Use comments to explain why a particular piece of code is necessary, rather than what it does.
+
+9) Avoid using complex control structures, such as nested loops and if-else statements, as they can make your code harder to understand and maintain.
+
+10) Write automated tests to verify that your code behaves as expected, and run them frequently during development. This will catch bugs early and make it easier to refactor your code with confidence.
+
+11) Use a consistent style guide, such as PEP 8, to ensure that your code is readable and easily maintainable by others.
+
+12) Refactor your code regularly to remove duplication and simplify complex logic. This will make it easier to understand and maintain in the long term.
+
+
+
+
+
