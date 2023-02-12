@@ -47,7 +47,7 @@ The [Ubiquitous language](https://github.com/KrishnaNarwade/Financial-Expense-Ma
 
 # 5) Clean Code Development
 
-Below you can find my Clean code developement cheatsheet and it's example in my code
+Clean code developement [cheatsheet](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/Clean%20Code%20Development.txt) and it's example in my code
 
 **Readability:** The codes written are easy to understand and follow, using clear and meaningful names, concise expressions, and consistent indentation.
                  Before each function a comment is written to explain what the function is exactly doing! As one can see by the sonarcloud readibilty analysis [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
