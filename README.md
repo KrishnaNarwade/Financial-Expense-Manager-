@@ -1,6 +1,6 @@
 # Financial-Expense-Manager-
 Hi , This Repository contains Expense Manger Project using Python 
-Overview of code Metrics :[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Expense-Manger-Advanced-Software-Engineering-Project)
+Overview of code Metrics :[![Quality gate][![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
 
 # General
 This repository contains a simple Expense manager. You can track your expense and budget get to know where you are spending your money. It already comes with options of adding , deleting, modifying, getting current date of the puchase. 
