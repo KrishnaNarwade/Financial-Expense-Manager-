@@ -139,8 +139,11 @@ https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8
 https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L11
 
 **Final data structure:** The result of the calculation is stored in the variable food_total, which is the final data structure in this code.
+Also Dictonary is used as a data structure to store the data.
 
 https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L17
+https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/b2cd088bcdbdd8c707a3f166e21ea133787cddc4/functional_programming.py#L27
+
 
 **Reduce function:**  The reduce function is used to sum the elements in the list food_expenses, which are the filtered expenses for the Food category. 
 
