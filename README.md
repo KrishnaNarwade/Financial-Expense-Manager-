@@ -120,7 +120,7 @@ For it's Interpreation I have used python language you can find the code here [g
 
 # 11) Functional Programming
 
+To cover all the mentioned functional programming aspects, I have written a small python program which calulates the expenses. 
+The Link for complete progarm can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/functional_programming.py)
 
-[main_expense_manager](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/main.py)
 
-[Backend_Database_code](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/mydb.py)
