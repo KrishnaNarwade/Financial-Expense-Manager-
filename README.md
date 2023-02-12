@@ -1,5 +1,6 @@
 # Financial-Expense-Manager-
-Hi , This Repository contains Expense Manger Project using Python 
+Hi , This Repository contains Expense Manger Project using Python.
+
 Overview of code Metrics :[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KrishnaNarwade_Financial-Expense-Manager-&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=KrishnaNarwade_Financial-Expense-Manager-)
 
 # General
