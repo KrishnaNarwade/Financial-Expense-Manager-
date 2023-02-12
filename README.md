@@ -124,3 +124,14 @@ To cover all the mentioned functional programming aspects, I have written a smal
 The Link for complete progarm can be found [here](https://github.com/KrishnaNarwade/Financial-Expense-Manager-/blob/main/functional_programming.py)
 
 
+**Higher-order:** Process_data is a higer order function that takes a list of expenses and a function as a parameter. 
+
+**Side effect free function:** Get_total is a side-effect free function that calculates the total price of an expense.
+
+**Closure Function:** The make_category_filter function is a closure that returns a new function that filters expenses by category. filter_food is a closure that filters expenses that belong to the Food category.
+
+**Reduce function:**  The reduce function is used to sum the elements in the list food_expenses, which are the filtered expenses for the Food category. 
+
+**Final data structure:** The result of the calculation is stored in the variable food_total, which is the final data structure in this code.
+
+
